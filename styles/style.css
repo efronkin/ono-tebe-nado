@@ -16,7 +16,7 @@ html {
 .header__links-list {
     display: flex;
     gap: 33px;
-    align-self: center;   
+    align-self: center;
 }
 
 .header__links-list-item {
